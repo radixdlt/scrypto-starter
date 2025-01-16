@@ -1,6 +1,6 @@
 {
   "name": "Radix Scrypto",
-  "image": "radixdlt/scrypto-dev-container",
+  "image": "radixdlt/scrypto-dev-container:rc2",
   "customizations": {
     "vscode": {
       "extensions": [
